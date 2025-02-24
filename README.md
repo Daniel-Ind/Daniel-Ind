@@ -1,11 +1,11 @@
 <h1 align="center">Hi there✈️, I'm Daniel</h1>
 <h3 align="center">Master planner and code enthusiast</h3>
 
-- 🔭 I’m currently working on: **NextCred**
+- 🔭 I’m currently working on: **Kode Once**
 
-- 🌱 I’m currently learning: **React, React Native**
+- 🌱 I’m currently learning: **React, NextJS**
 
-- 👯 I’m looking to collaborate on: **Projects making a difference**
+- 👯 I’m looking to collaborate on: **Projects looking to make a difference**
 
 - 📫 How to reach me: **danieljounior@gmail.com**
 
