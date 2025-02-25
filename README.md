@@ -1,4 +1,4 @@
-<h1 align="center">Hi there✈️, I'm Daniel</h1>
+<h1 align="center">King Daniel👑</h1>
 <h3 align="center">Master planner and code enthusiast</h3>
 
 - 🔭 I’m currently working on: **Kode Once**
