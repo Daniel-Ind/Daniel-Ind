@@ -1,13 +1,13 @@
 <h1 align="center">King Daniel👑</h1>
 <h3 align="center">Master planner and code enthusiast</h3>
 
-- 🔭 I’m currently working on: **Kode Once**
+- 🔭 I’m currently working on: **Varsify**
 
-- 🌱 I’m currently learning: **React, NextJS**
+- 🌱 I’m currently learning: **React Native**
 
 - 👯 I’m looking to collaborate on: **Projects looking to make a difference**
 
-- 📫 How to reach me: **danieljounior@gmail.com**
+- 📫 How to reach me: **danieljounior@gmail.com / Daniel@varsify.co.za**
 
 - ⚡Delusional Fun fact: **I think I can build anything with code**
 
