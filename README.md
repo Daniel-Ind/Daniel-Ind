@@ -1,9 +1,9 @@
 <h1 align="center">King Daniel👑</h1>
 <h3 align="center">Master planner and code enthusiast</h3>
 
-- 🔭 I’m currently working on: **Kode Once**
+- 🔭 I’m currently working on: **Varsify**
 
-- 🌱 I’m currently learning: **React, NextJS**
+- 🌱 I’m currently learning: **Time management**
 
 - 👯 I’m looking to collaborate on: **Projects looking to make a difference**
 
